@@ -1,0 +1,4 @@
+Name: Junquan Yu
+E-mail address: junquany@usc.edu
+Summary of Program: According to the Lab 13 document PDF, i completed the programs for the valid graph checker with C++. I tested it under my OS system and they all performed as expected and produced the correct results. For the undirected graph generation part, I just choose a random number vn from 3 to 15 as the number of the vertices and choose a random number en from vn-1 to vn*(vn-1)/2 as the number of edges in the graph. Then I randomly choose en elements from the list with all possible edges in it to denote these en  edges. Finally, I use the valid graph checker to check whether it is a tree with system call.
+
